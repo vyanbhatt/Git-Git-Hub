@@ -1,0 +1,3 @@
+This is to try direct commits.
+
+This it to try the ammend command. git commit --amend.

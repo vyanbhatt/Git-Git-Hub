@@ -1,0 +1,3 @@
+yo this is to check how git diff --staged works.
+
+now this is to check the direct commits.

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is to try direct commits(master).
+=======
+This is to try direct commits(feature1).
+>>>>>>> feature1
 
 This it to try the ammend command. git commit --amend.

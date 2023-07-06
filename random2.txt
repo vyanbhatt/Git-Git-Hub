@@ -2,3 +2,5 @@ This is to try direct commits(feature1).
 
 
 This it to try the ammend command. git commit --amend.
+
+Wow so just to let you know you can open a text editor using command.vi file_nane
